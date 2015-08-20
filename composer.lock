@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "4207e2735350820b2c9d43f0b4d446c6",
+    "hash": "44d9dcdff1a59654dd59d650cb15f15a",
     "packages": [
         {
             "name": "origgami/wp-programming-utils",

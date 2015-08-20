@@ -1,5 +1,8 @@
 {
     "name": "origgami/test",
+    "config": {
+        "preferred-install": "dist"
+    },
     "repositories": [
         {
             "type": "vcs",
@@ -9,4 +12,5 @@
     "require": {
         "origgami/wp-programming-utils": "dev-master"
     }
+    
 }

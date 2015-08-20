@@ -16,7 +16,7 @@
         },
         "time": "2015-08-20 02:28:48",
         "type": "library",
-        "installation-source": "source",
+        "installation-source": "dist",
         "support": {
             "source": "https://github.com/origgami/wp-programming-utils/tree/master",
             "issues": "https://github.com/origgami/wp-programming-utils/issues"

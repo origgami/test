@@ -1,0 +1,12 @@
+{
+    "name": "origgami/test",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/origgami/wp-programming-utils"
+        }
+    ],
+    "require": {
+        "origgami/wp-programming-utils": "dev-master"
+    }
+}

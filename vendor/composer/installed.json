@@ -1,0 +1,25 @@
+[
+    {
+        "name": "origgami/wp-programming-utils",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/origgami/wp-programming-utils.git",
+            "reference": "1fa9dfa181c8ac9efdd98d5285e2650d434dfbf0"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/origgami/wp-programming-utils/zipball/1fa9dfa181c8ac9efdd98d5285e2650d434dfbf0",
+            "reference": "1fa9dfa181c8ac9efdd98d5285e2650d434dfbf0",
+            "shasum": ""
+        },
+        "time": "2015-08-20 02:28:48",
+        "type": "library",
+        "installation-source": "source",
+        "support": {
+            "source": "https://github.com/origgami/wp-programming-utils/tree/master",
+            "issues": "https://github.com/origgami/wp-programming-utils/issues"
+        }
+    }
+]
